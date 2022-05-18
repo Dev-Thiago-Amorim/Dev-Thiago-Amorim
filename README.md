@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Thiago-Amorim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
-<div style="display: inline_block" style="margin: auto"><br>
+<div style="display: inline_block" style="margin-left: 100px"><br>
   <img align="center" alt="Titi-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Titi-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Titi-arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
