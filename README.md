@@ -1,4 +1,4 @@
-## Olá, eu sou Thiago Amorim, Engenheiro Mecânico e estudante de programação e ciência de dados!
+## Olá, eu sou Thiago Amorim e sou Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/Dev-Thiago-Amorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Thiago-Amorim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
